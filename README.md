@@ -17,13 +17,14 @@
 
 ### • Languages: Python
 
-### • Libraries: Pandas, NumPy, Scikit-Learn, Surprise, Matplotlib/Seaborn
+### • Libraries: Pandas, NumPy,  Matplotlib/Seaborn
 
-### • Frontend: Streamlit
+### • Machine Learning: Scikit-learn, Surprise
 
-### • Deployment: Streamlit Sharing, Heroku, AWS, or Google Cloud (mention as per your setup).
+### • Web Framework : Streamlit
 
 ## How It Works
+
 ### • Data Collection: Uses movie datasets (e.g., TMDb, MovieLens).
 
 ### • Preprocessing: Cleans and processes data for model training.
@@ -31,7 +32,11 @@
 ### • Model Training: Employs algorithms like cosine similarity, matrix factorization, or deep learning.
 
 ### • Recommendation Generation: Suggests top-rated and personalized movies for each user.
+
 ## • Future Enhancements
+
 ### • Incorporate sentiment analysis from user reviews.
+
 ### • Add multilingual movie recommendations.
+
 ### • Improve recommendation accuracy using deep learning.
