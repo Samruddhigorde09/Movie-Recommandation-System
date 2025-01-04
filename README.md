@@ -1,5 +1,5 @@
 # Movie Recommendation System 🎥
-### A machine learning-based movie recommendation system that suggests movies to users based on their preferences and viewing history.The system is built using Python and popular libraries like Pandas, NumPy, and Scikit-Learn.The project aims to enhance user experience by providing accurate and relevant movie recommendations, making it a valuable tool for entertainment platforms. The system can be deployed as an interactive web application, ensuring accessibility and ease of use.
+ A machine learning-based movie recommendation system that suggests movies to users based on their preferences and viewing history.The system is built using Python and popular libraries like Pandas, NumPy, and Scikit-Learn.The project aims to enhance user experience by providing accurate and relevant movie recommendations, making it a valuable tool for entertainment platforms. The system can be deployed as an interactive web application, ensuring accessibility and ease of use.
 
 ## Features
 
@@ -20,28 +20,36 @@ Fully functional web app hosted on  Streamlit.
 
 ## Technologies Used
 
-### • Languages: Python
+### • Languages: 
+Python
 
-### • Libraries: Pandas, NumPy,  Matplotlib/Seaborn
+### • Libraries: 
+Pandas, NumPy,  Matplotlib/Seaborn
 
-### • Machine Learning: Scikit-learn, Surprise
+### • Machine Learning: 
+Scikit-learn, Surprise
 
-### • Web Framework : Streamlit
+### • Web Framework : 
+Streamlit
 
 ## How It Works
 
-### • Data Collection: Uses movie datasets (e.g., TMDb, MovieLens).
+### • Data Collection: 
+Uses movie datasets (e.g., TMDb, MovieLens).
 
-### • Preprocessing: Cleans and processes data for model training.
+### • Preprocessing: 
+Cleans and processes data for model training.
 
-### • Model Training: Employs algorithms like cosine similarity, matrix factorization, or deep learning.
+### • Model Training: 
+Employs algorithms like cosine similarity, matrix factorization, or deep learning.
 
-### • Recommendation Generation: Suggests top-rated and personalized movies for each user.
+### • Recommendation Generation: 
+Suggests top-rated and personalized movies for each user.
 
 ## • Future Enhancements
 
-### • Incorporate sentiment analysis from user reviews.
+ • Incorporate sentiment analysis from user reviews.
 
-### • Add multilingual movie recommendations.
+ • Add multilingual movie recommendations.
 
-### • Improve recommendation accuracy using deep learning.
+ • Improve recommendation accuracy using deep learning.
