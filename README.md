@@ -2,7 +2,7 @@
 ### A machine learning-based movie recommendation system that suggests movies to users based on their preferences and viewing history.
 
 ## Features
- ### Content-Based Filtering: ### Recommends movies similar to the ones the user has rated or interacted with.
+ ### | Content-Based Filtering:  Recommends movies similar to the ones the user has rated or interacted with.
  
 ### Collaborative Filtering: Suggests movies by analyzing patterns from multiple users with similar preferences.
  
