@@ -3,15 +3,20 @@
 
 ## Features
 
- ### • Content-Based Filtering:  Recommends movies similar to the ones the user has rated or interacted with.
+ ### • Content-Based Filtering:  
+ Recommends movies similar to the ones the user has rated or interacted with.
  
-###  • Collaborative Filtering: Suggests movies by analyzing patterns from multiple users with similar preferences.
+###  • Collaborative Filtering: 
+Suggests movies by analyzing patterns from multiple users with similar preferences.
  
-### • Hybrid Approach: Combines content-based and collaborative filtering for better accuracy.
+### • Hybrid Approach:
+Combines content-based and collaborative filtering for better accuracy.
 
-### • Interactive User Interface: Provides a user-friendly platform for seamless interaction.
+### • Interactive User Interface: 
+Provides a user-friendly platform for seamless interaction.
 
-### • Deployment: Fully functional web app hosted on [platform name if applicable, e.g., Streamlit, Flask, Heroku, etc.].
+### • Deployment: 
+Fully functional web app hosted on  Streamlit.
 
 ## Technologies Used
 
